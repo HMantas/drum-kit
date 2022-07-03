@@ -87,7 +87,7 @@ footer {
 }
 
 
-@media (max-width: 900px) {
+@media (max-width: 1100px) {
     .drum {
     outline: none;
     border: 10px solid #404B69;
